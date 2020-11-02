@@ -12,7 +12,8 @@ As the need to increase local food security continues to grow world wide, we hop
 ## Schema
 
 Posted below is a sample of the current schema using an embedded model for quicker development.
-...
+
+```
 "id": "5f9fb473bc4c78dd58090e0b",
 "seedInformation": {
 "name": "Purple Sango Radish",
@@ -39,7 +40,7 @@ Posted below is a sample of the current schema using an embedded model for quick
 "daysUnderBlackOut": 2,
 "harvestWeight": 320
 }
-...
+```
 
 ## Functionality
 
